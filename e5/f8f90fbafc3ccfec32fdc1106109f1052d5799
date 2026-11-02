@@ -1,0 +1,19 @@
+AGENTS.md
+  s_70cdfcaa498eba::t_e68d50d5cb7802 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e5f8f90fbafc3ccfec32fdc1106109f1052d5799",
+  "prompts": {},
+  "sessions": {
+    "s_70cdfcaa498eba": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac6-dd97-7202-b4b6-822e30678548",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Sarp <sarppehlivan444@gmail.com>"
+    }
+  }
+}
