@@ -1,0 +1,33 @@
+src/utils/logger.test.ts
+  s_75043f850c8711::t_daa37489656222 17-20,28,40
+  s_75043f850c8711::t_415060f6f3e475 1-16,21-27,29-39,41-43
+package.json
+  s_75043f850c8711::t_415060f6f3e475 10,44
+  s_75043f850c8711::t_19dc737e87c02e 41-42
+package-lock.json
+  s_6be579f4b6ca19::t_82af895463df7a 1-8090
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1bc319645d7dcc5d890fefc88e80fe1dff435915",
+  "prompts": {},
+  "sessions": {
+    "s_6be579f4b6ca19": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ff3-c9cd-70d2-8eba-ca4396a804c6",
+        "model": "unknown"
+      },
+      "human_author": "Sarp <sarppehlivan444@gmail.com>"
+    },
+    "s_75043f850c8711": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ff3-58cc-72c2-8a10-bff93f05b65e",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Sarp <sarppehlivan444@gmail.com>"
+    }
+  }
+}
