@@ -1,0 +1,20 @@
+AGENTS.md
+  s_e776f6bba359fd::t_6fcda5666f0b27 94-102
+  s_e776f6bba359fd::t_2e9502fcc1990d 1-93,103-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cc320ff9e6c288f6935a8702cbc4319e54027488",
+  "prompts": {},
+  "sessions": {
+    "s_e776f6bba359fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a4e7-a06f-7da1-b8d7-fa5a2d65e163",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Sarp <sarppehlivan444@gmail.com>"
+    }
+  }
+}
